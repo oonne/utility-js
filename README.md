@@ -1,10 +1,12 @@
 # Utility
 Library of utility functions.
-------------
 
 ## Usage
 
 TODO
+
+## API
+
 
 ## Test
 

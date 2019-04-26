@@ -1,0 +1,14 @@
+{
+  "name": "Utility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "JAY",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}
