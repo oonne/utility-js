@@ -27,4 +27,4 @@ WeChat: compatibility unknown
 Node.js: partial support  
 
 ## License
-Copyright © by JAY. All rights reserved.
+Copyright © by [JAY](blog.oonne.com). All rights reserved.
